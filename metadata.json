@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Kinerja Harian ASN PPPK Tenaga Teknis",
+  "description": "Aplikasi pencatatan, pengelolaan templat, riwayat, dan cetak Laporan Kinerja Harian ASN PPPK Tenaga Teknis terintegrasi Google Drive dan Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
